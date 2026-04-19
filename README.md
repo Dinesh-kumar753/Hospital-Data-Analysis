@@ -75,7 +75,7 @@ This project analyzes hospital data to extract meaningful insights related to pa
 
 ---
 
-## 👤 Author
+## 👤Author
 
 **Dinesh Kumar**
 Aspiring Data Analyst
